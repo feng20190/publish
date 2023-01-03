@@ -1,0 +1,18 @@
+{:blocks ()
+:pages (
+{:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
+:name "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
+:ls-type :whiteboard-page
+:bindings 
+{}
+:nonce 1
+:assets []}}
+:block/updated-at 1672717995091
+:block/created-at 1672717995091
+:block/type "whiteboard"
+:block/name "测试"
+:block/original-name "测试"})}
