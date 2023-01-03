@@ -1,17 +1,50 @@
-{:blocks ()
+{:blocks (
+{:block/content "白板测试"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"}
+:block/parent 
+{:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"}
+:block/uuid #uuid "63b3a6b3-97eb-4e5a-894a-a00c94c89c7d"} 
+{:block/created-at 1672718004012
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "63b3a6b3-97eb-4e5a-894a-a00c94c89c7d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 46.97898864746094]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "29bac530-8b1a-11ed-8edc-5b4765eaff88"
+:noFill false
+:point [414.21429443359375 275.1050262451172]
+:parentId "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
+:collapsedHeight 0
+:nonce 1672718000390}}
+:block/updated-at 1672718004012})
 :pages (
 {:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
-:name "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
-:ls-type :whiteboard-page
+:name "测试"
 :bindings 
 {}
-:nonce 1
+:nonce 3
 :assets []}}
-:block/updated-at 1672717995091
+:block/updated-at 1672718004012
 :block/created-at 1672717995091
 :block/type "whiteboard"
 :block/name "测试"
