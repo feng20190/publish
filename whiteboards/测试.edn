@@ -1,10 +1,12 @@
 {:blocks (
-{:block/content "白板测试"
+{:block/content "白板测试，无法同步，但可以作为文件记录"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"}
 :block/parent 
 {:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"}
+:block/properties 
+{}
 :block/uuid #uuid "63b3a6b3-97eb-4e5a-894a-a00c94c89c7d"} 
 {:block/created-at 1672718004012
 :block/properties 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 46.97898864746094]
+:size [400 76.97898864746094]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +33,8 @@
 :point [414.21429443359375 275.1050262451172]
 :parentId "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
 :collapsedHeight 0
-:nonce 1672718000390}}
-:block/updated-at 1672718004012})
+:nonce 1672718000393}}
+:block/updated-at 1672718175332})
 :pages (
 {:block/uuid #uuid "63b3a6ab-1c8d-4c90-aabe-f2dcfd68a787"
 :block/properties 
@@ -42,9 +44,9 @@
 :name "测试"
 :bindings 
 {}
-:nonce 3
+:nonce 6
 :assets []}}
-:block/updated-at 1672718004012
+:block/updated-at 1672718175332
 :block/created-at 1672717995091
 :block/type "whiteboard"
 :block/name "测试"

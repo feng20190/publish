@@ -316,4 +316,7 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :feature/enable-whiteboards? true
+ :feature/enable-flashcards? false
+ :feature/enable-journals? false
+ :default-home {:page "Contents"}
  }
